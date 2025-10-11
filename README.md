@@ -11,6 +11,14 @@
 
 
 
+[![](https://visitcount.itsvg.in/api?id=mudachyo&label=Profile%20Views&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+
+
+
+<p align="center"><img src="https://raw.githubusercontent.com/mudachyo/mudachyo/output/github-contribution-grid-snake.svg"></p>
+
+
 - 👋 Hi, I’m @KallanXD 
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning ...
